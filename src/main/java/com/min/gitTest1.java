@@ -7,5 +7,6 @@ public class gitTest1 {
         System.out.println("third add!");
         System.out.println("this is master!");
         System.out.println("this is hot-fix branch");
+        System.out.println("this is write by github!");
     }
 }
